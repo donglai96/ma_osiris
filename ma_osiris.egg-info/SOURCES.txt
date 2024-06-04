@@ -1,0 +1,10 @@
+README.md
+setup.py
+ma_osiris/__init__.py
+ma_osiris.egg-info/PKG-INFO
+ma_osiris.egg-info/SOURCES.txt
+ma_osiris.egg-info/dependency_links.txt
+ma_osiris.egg-info/requires.txt
+ma_osiris.egg-info/top_level.txt
+ma_osiris/exec/__init__.py
+ma_osiris/exec/exec.py

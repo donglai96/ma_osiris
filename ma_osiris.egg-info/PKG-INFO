@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ma-osiris
+Version: 0.1.0
+Summary: A useful code for osiris diag
+Home-page: http://github.com/donglai96/ma_osiris
+Author: Donglai Ma
+Author-email: donglaima96@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Ma_OSIRIS
+This is the lib for osiris code reading and diagnostic.
+
+Author: Donglai Ma
+Date: 2024-5-10
+UCLA
